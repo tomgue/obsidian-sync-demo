@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "027f60ba89e7344b",
+        "id": "dd4947f4e5eb2bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "78e666412087f987",
+            "id": "29107ee1dc074607",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/demo-file.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "demo-file.md"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/demo-file.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour demo-file.md"
+              "title": "Rétroliens"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/demo-file.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de demo-file.md"
+              "title": "Liens sortants"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/demo-file.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de demo-file.md"
+              "title": "Plan"
             }
           },
           {
@@ -194,13 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78e666412087f987",
+  "active": "29107ee1dc074607",
   "lastOpenFiles": [
-    "base.base",
     "README.md",
+    "test/demo-file.md",
+    "archetypes/blog.md",
+    "base.base",
     "Sans titre.md",
-    "test/demo-file.md.md",
-    "archetypes/blog.md.md",
     "archetypes",
     "test"
   ]
