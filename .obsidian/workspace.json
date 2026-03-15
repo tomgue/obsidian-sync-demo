@@ -11,10 +11,14 @@
             "id": "29107ee1dc074607",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Untitled"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -189,8 +193,9 @@
   },
   "active": "29107ee1dc074607",
   "lastOpenFiles": [
-    "README.md",
     "test/demo-file.md",
+    "Untitled.md",
+    "README.md",
     "archetypes/blog.md",
     "base.base",
     "Sans titre.md",
